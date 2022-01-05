@@ -1,0 +1,28 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e4ede0;
+  color: #5b5b5b;
+  width: 1200px;
+  margin: 80px auto;
+}
+.body {
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.inside-body {
+  padding: 80px 50px 80px 50px;
+}
+.header {
+  padding-top: 20px;
+}
+.bold-numbers {
+  font-weight: bold;
+}
+.footer {
+  background-color: #cbdac4;
+  text-align: center;
+  padding: 10px;
+}
+.center {
+  text-align: center;
+  display: flexbox;
+}
