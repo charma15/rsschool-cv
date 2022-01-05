@@ -1,5 +1,7 @@
 # Yelyzaveta Karpenko
 
+![photo](C:\Users\elkar\Downloads\IMG_2222.jpg "My photo")
+
 ## Contact information
 
 - phone number: +380 (063) 476 84 73
